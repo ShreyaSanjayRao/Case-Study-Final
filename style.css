@@ -1,0 +1,9 @@
+body{
+    font-family: 'Lobster', cursive;
+    background:linear-gradient(yellow,violet ,blue 100%);
+    text-align:center;
+}
+.copy_right_footer
+{
+font-size: 40px;
+}
